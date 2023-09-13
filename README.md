@@ -1,2 +1,2 @@
 # Reposirory-baru
- Ini adalah  repository baru kak asma
+ Ini adalah  repository baru
